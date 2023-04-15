@@ -31,7 +31,7 @@ class DarkPatternCollector extends BaseCollector {
         this.darkPatterns = await processFile(this.page, this.url, inputPatterns);
         delay(5000);
         await this.page.evaluate(() => window.scrollTo(0,document.body.scrollHeight));
-        var k = await processFile(this.page, this.url, inputPatterns);
+        let k = await processFile(this.page, this.url, inputPatterns);
         this.darkPatterns.pattern = this.darkPatterns.pattern.concat(k.pattern);
         return this.darkPatterns;
     }
