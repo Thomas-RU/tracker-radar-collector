@@ -1,6 +1,5 @@
 const fs = require('fs');
 // @ts-ignore
-const { isContext } = require('vm');
 const BaseCollector = require('./BaseCollector');
 const puppeteer = require('puppeteer');
 
@@ -25,15 +24,15 @@ class DarkPatternCollector extends BaseCollector {
         this.page = page;
         this.url = url
     }
-   
 
     async getData() {
         const delay = (/** @type {number} */ ms) => new Promise(res => setTimeout(res, ms));
         let inputPatterns = fs.readFileSync('../tracker-radar-collector-main/InputData/InputPatterns.txt', {encoding: 'utf8', flag:'r'});
         this.darkPatterns = await processFile(this.page, this.url, inputPatterns);
         delay(10000);
-        this.page.evaluate(() => window.scrollTo(0,document.body.scrollHeight));
-        this.darkPatterns = await processFile(this.page, this.url, inputPatterns);
+        await this.page.evaluate(() => window.scrollTo(0,document.body.scrollHeight));
+        let k = await processFile(this.page, this.url, inputPatterns);
+        this.darkPatterns.pattern = this.darkPatterns.pattern.concat(k.pattern);
         return this.darkPatterns;
     }
 
@@ -78,6 +77,7 @@ async function processData(content, pageText, url) {
     };
     return result;
 }
+
 /**
  * @typedef DarkPatterns
  * @property {string} url

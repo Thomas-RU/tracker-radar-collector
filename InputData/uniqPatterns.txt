@@ -1,0 +1,208 @@
+only [0-9]+ units left in stock
+low stock – selling fast
+only [0-9]+ left in stock
+limited stock
+only [0-9]+ left
+[0-9]+ items left
+low in stock today
+only [0-9]+ left in stock.
+only [0-9]+ items left!
+[0-9]+ claimed! hurry, only a few left!
+only [0-9]+ unit left in stock
+only [0-9]+ left! get it now!
+we have [0-9]+ left in stock
+only [0-9]+ left!
+only [0-9]+ items left
+[0-9]+% offers claimed. hurry up!
+hurry! only [0-9]+ left in stock.
+order now, only [0-9]+ left in stock!
+low in stock: only [0-9]+ left.
+[0-9]+ item(s) left in stock!
+[0-9]+ left in stock
+hurry, only [0-9]+ left!
+only [0-9]+ left in stock!
+less than [0-9]+ left in stock
+availability: low in stock today
+limited quantity
+limited stock!
+hurry! only a few left in stock!
+pre-order [0-9]+ left
+only few items left in stock
+only [0-9]+ units left!
+only [0-9]+ left in this size!
+there is only one product left!
+hurry! only [0-9]+ left in stock!
+only [0-9]+ left at this price
+only [0-9]+ copies left
+status:only [0-9]+ left in stock
+[0-9]+ items left! order soon.
+hurry only [0-9]+ left in stock!
+only [0-9]+ left in stock - order soon
+*only [0-9]+ left in stock. don't miss out!
+only one item left in stock!
+only [0-9]+ item left
+only [0-9]+ items left in stock!
+only [0-9]+ left in stock! get in quick!
+less than [0-9]+ left!
+[0-9]+ left
+[0-9]+ left at this price
+[0-9]+% left in stock!
+low in stock!! get yours now
+[0-9]+ left in this size
+[0-9]+ item left
+please note all products are made in limited quantities and we rarely restock - checkout now so you don't miss out!
+hurry! only [0-9]+ left
+hurry, there are only [0-9]+ item(s) left!
+hurry! only [0-9]+ left in stock
+only [0-9]+ left in online stock
+size low on stock, only [0-9]+ item left
+hurry! only [0-9]+ left at this price!
+over [0-9]+ left in stock
+hurry only [0-9]+ items left!
+only [0-9]+ left !
+live remaining stock
+hurry! less than [0-9]+ left.
+hurry, only a few left!
+only [0-9]+ left.
+only [0-9]+ in stock!
+don't miss out, only [0-9]+ left in stock
+limited quantity available
+hurry up! only [0-9]+ items left
+only [0-9]+ stock available
+hurry, only [0-9]+ left in stock!
+hurry! only a few of these left
+hurry up! only [0-9]+ piece left
+hurry only [0-9]+ left!
+only [0-9]+ item(s) left
+only [0-9]+ left in this size
+(only [0-9]+ left)
+last [0-9]+ in stock
+only [0-9]+ in stock
+warning! only [0-9]+ left in stock!
+don't miss out on this item! there is only [0-9]+ left in stock.
+only [0-9]+ item(s) left.
+only [0-9]+ item left!
+only [0-9]+ left , in stock
+[0-9]+ left, order now!
+[0-9]+ in stock
+just [0-9]+ left!
+less than [0-9]+ left in stock!
+hurry, only [0-9]+ left in stock. buy now!
+availability: low stock
+availability: only [0-9]+ left
+only [0-9]+ left, order soon
+warning: last items in stock!
+fewer than [0-9]+ left!
+hurry! only [0-9]+ left!
+don't snooze, only [0-9]+ left
+limited quantity remaining
+last one available
+only [0-9]+ products left
+in stock, only [0-9]+ products left
+limited quantity! 
+hurry! [0-9]+ left in stock!
+(only [0-9]+ left!)
+stock low : [0-9]+ items left.
+in stock, only [0-9]+ left!
+in stock | [0-9]+ left
+only [0-9]+ units left in stock online.
+hurry! almost sold out...
+limited availability at this price!
+only [0-9]+ pieces left
+hurry! only [0-9]+ pair left!
+hurry! limited quantity available.
+less than [0-9]+ items left
+low stock
+hurry! only limited items left
+last chance! only [0-9]+ left
+last [0-9]+ left
+[0-9]+ piece(s) left for this promo
+only a few left
+in stock ([0-9]+) left
+low in stock, only [0-9]+ left
+[0-9]+ left in stock. hurry!
+[0-9]+ units left
+only [0-9]+ remaining
+([0-9]+ left)
+hurry only [0-9]+ left
+availability: low stock [0-9]+ remaining
+low stock! only [0-9]+ left.
+low stock alert: only [0-9]+ left in inventory
+low stock: only [0-9]+ left.
+only a few left in stock
+only [0-9]+ items left in stock.
+only [0-9]+ left in stock. buy soon!
+only [0-9]+.[0-9]+m left in stock!
+only a few more left!
+limited availability
+we only have [0-9]+.[0-9]+ left in stock
+only [0-9]+ left in stock! order soon!
+quick! only [0-9]+ left in stock
+going fast: limited quantities left!
+in stock - limited quantity
+only [0-9]+ deals left
+currently less than [0-9]+ available
+only [0-9]+ piece left.
+almost sold out! only [0-9]+ left.
+only [0-9]+ left, order soon!
+hurry! [0-9]+ items left!
+low stock (only [0-9]+ left!)
+only [0-9]+ pieces in stock!
+hurry, limited quantities left!
+hurry, only [0-9]+ left.
+only [0-9]+ left in stock. make it yours.
+currently [0-9]+ left in stock.
+only a few left of this product!
+only [0-9]+ left in stock. almost gone!
+only one left in stock - order soon!
+this size has only [0-9]+ left in stock
+hurry, low in stock!
+hurry only [0-9]+ item left!
+only [0-9]+.[0-9]+ yards left in stock!
+availability: only [0-9]+ left!
+low in stock
+only [0-9]+ pcs left!
+only [0-9]+ left, hurry!
+quantity: *only [0-9]+ left
+only [0-9]+ available
+[0-9]+ seats left
+only [0-9]+ left! get it before it`s gone!
+only a few left!
+hurry, only [0-9]+ left in stock
+clearance! only [0-9]+ left in stock.
+available, only [0-9]+ left
+in stock. only [0-9]+ left!
+in stock only [0-9]+ left!
+limited-time deal
+only [0-9]+ unit(s) available!
+hurry, only [0-9]+ left
+low stock only [0-9]+ left
+hurry! only [0-9]+ in stock!
+availability: [0-9]+ items left
+hurry! less than [0-9]+ left!
+almost gone! only [0-9]+ left in stock
+in stock only [0-9]+ left
+sellout risk:
+only: [0-9]+ in stock now
+only [0-9]+ watch left
+only [0-9]+ item(s) left in stock
+only [0-9]+ items left.
+[0-9]+ left!
+limited stock only [0-9]+ left
+there are only [0-9]+ item left in stock.
+(only [0-9]+ left in this size!)
+only [0-9]+ item left in stock
+order soon, only [0-9]+ left!
+hurry low stock
+hurry! only [0-9]+ left in size m!!
+bottles left [0-9]+
+we only have few stocks left for this product. please don't miss the chance.
+limited stock available
+almost gone - only [0-9]+ remaining!
+we only have [0-9]+ left!
+availability: in stock hurry! only [0-9]+ left!
+hurry !! only [0-9]+ left in stock
+last chance to activate [0-9]+% off
+hurry up! only [0-9]+ left in stock
+[0-9]+ sold today! hurry, only a few left!
+hurry up ! just [0-9]+ items left in stock
