@@ -29,7 +29,7 @@ class DarkPatternCollector extends BaseCollector {
         const delay = (/** @type {number} */ ms) => new Promise(res => setTimeout(res, ms));
         let inputPatterns = fs.readFileSync('../tracker-radar-collector-main/InputData/InputPatterns.txt', {encoding: 'utf8', flag:'r'});
         this.darkPatterns = await processFile(this.page, this.url, inputPatterns);
-        delay(5000);
+        delay(10000);
         await this.page.evaluate(() => window.scrollTo(0,document.body.scrollHeight));
         let k = await processFile(this.page, this.url, inputPatterns);
         this.darkPatterns.pattern = this.darkPatterns.pattern.concat(k.pattern);
