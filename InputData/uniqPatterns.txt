@@ -5,7 +5,7 @@ limited stock
 only [0-9]+ left
 [0-9]+ items left
 low in stock today
-only [0-9]+ left in stock.
+only [0-9]+ left in stock\.
 only [0-9]+ items left!
 [0-9]+ claimed! hurry, only a few left!
 only [0-9]+ unit left in stock
@@ -13,10 +13,10 @@ only [0-9]+ left! get it now!
 we have [0-9]+ left in stock
 only [0-9]+ left!
 only [0-9]+ items left
-[0-9]+% offers claimed. hurry up!
-hurry! only [0-9]+ left in stock.
+[0-9]+% offers claimed\. hurry up!
+hurry! only [0-9]+ left in stock\.
 order now, only [0-9]+ left in stock!
-low in stock: only [0-9]+ left.
+low in stock: only [0-9]+ left\.
 [0-9]+ item(s) left in stock!
 [0-9]+ left in stock
 hurry, only [0-9]+ left!
@@ -35,10 +35,10 @@ hurry! only [0-9]+ left in stock!
 only [0-9]+ left at this price
 only [0-9]+ copies left
 status:only [0-9]+ left in stock
-[0-9]+ items left! order soon.
+[0-9]+ items left! order soon\.
 hurry only [0-9]+ left in stock!
 only [0-9]+ left in stock - order soon
-*only [0-9]+ left in stock. don't miss out!
+\*only [0-9]+ left in stock\. don't miss out!
 only one item left in stock!
 only [0-9]+ item left
 only [0-9]+ items left in stock!
@@ -61,9 +61,9 @@ over [0-9]+ left in stock
 hurry only [0-9]+ items left!
 only [0-9]+ left !
 live remaining stock
-hurry! less than [0-9]+ left.
+hurry! less than [0-9]+ left\.
 hurry, only a few left!
-only [0-9]+ left.
+only [0-9]+ left\.
 only [0-9]+ in stock!
 don't miss out, only [0-9]+ left in stock
 limited quantity available
@@ -79,15 +79,15 @@ only [0-9]+ left in this size
 last [0-9]+ in stock
 only [0-9]+ in stock
 warning! only [0-9]+ left in stock!
-don't miss out on this item! there is only [0-9]+ left in stock.
-only [0-9]+ item(s) left.
+don't miss out on this item! there is only [0-9]+ left in stock\.
+only [0-9]+ item(s) left\.
 only [0-9]+ item left!
 only [0-9]+ left , in stock
 [0-9]+ left, order now!
 [0-9]+ in stock
 just [0-9]+ left!
 less than [0-9]+ left in stock!
-hurry, only [0-9]+ left in stock. buy now!
+hurry, only [0-9]+ left in stock\. buy now!
 availability: low stock
 availability: only [0-9]+ left
 only [0-9]+ left, order soon
@@ -102,15 +102,15 @@ in stock, only [0-9]+ products left
 limited quantity! 
 hurry! [0-9]+ left in stock!
 (only [0-9]+ left!)
-stock low : [0-9]+ items left.
+stock low : [0-9]+ items left\.
 in stock, only [0-9]+ left!
 in stock | [0-9]+ left
-only [0-9]+ units left in stock online.
-hurry! almost sold out...
+only [0-9]+ units left in stock online\.
+hurry! almost sold out\.\.\.
 limited availability at this price!
 only [0-9]+ pieces left
 hurry! only [0-9]+ pair left!
-hurry! limited quantity available.
+hurry! limited quantity available\.
 less than [0-9]+ items left
 low stock
 hurry! only limited items left
@@ -120,58 +120,58 @@ last [0-9]+ left
 only a few left
 in stock ([0-9]+) left
 low in stock, only [0-9]+ left
-[0-9]+ left in stock. hurry!
+[0-9]+ left in stock\. hurry!
 [0-9]+ units left
 only [0-9]+ remaining
 ([0-9]+ left)
 hurry only [0-9]+ left
 availability: low stock [0-9]+ remaining
-low stock! only [0-9]+ left.
+low stock! only [0-9]+ left\.
 low stock alert: only [0-9]+ left in inventory
-low stock: only [0-9]+ left.
+low stock: only [0-9]+ left\.
 only a few left in stock
-only [0-9]+ items left in stock.
-only [0-9]+ left in stock. buy soon!
-only [0-9]+.[0-9]+m left in stock!
+only [0-9]+ items left in stock\.
+only [0-9]+ left in stock\. buy soon!
+only [0-9]+\.[0-9]+m left in stock!
 only a few more left!
 limited availability
-we only have [0-9]+.[0-9]+ left in stock
+we only have [0-9]+\.[0-9]+ left in stock
 only [0-9]+ left in stock! order soon!
 quick! only [0-9]+ left in stock
 going fast: limited quantities left!
 in stock - limited quantity
 only [0-9]+ deals left
 currently less than [0-9]+ available
-only [0-9]+ piece left.
-almost sold out! only [0-9]+ left.
+only [0-9]+ piece left\.
+almost sold out! only [0-9]+ left\.
 only [0-9]+ left, order soon!
 hurry! [0-9]+ items left!
 low stock (only [0-9]+ left!)
 only [0-9]+ pieces in stock!
 hurry, limited quantities left!
-hurry, only [0-9]+ left.
-only [0-9]+ left in stock. make it yours.
-currently [0-9]+ left in stock.
+hurry, only [0-9]+ left\.
+only [0-9]+ left in stock\. make it yours\.
+currently [0-9]+ left in stock\.
 only a few left of this product!
-only [0-9]+ left in stock. almost gone!
+only [0-9]+ left in stock\. almost gone!
 only one left in stock - order soon!
 this size has only [0-9]+ left in stock
 hurry, low in stock!
 hurry only [0-9]+ item left!
-only [0-9]+.[0-9]+ yards left in stock!
+only [0-9]+\.[0-9]+ yards left in stock!
 availability: only [0-9]+ left!
 low in stock
 only [0-9]+ pcs left!
 only [0-9]+ left, hurry!
-quantity: *only [0-9]+ left
+quantity: \*only [0-9]+ left
 only [0-9]+ available
 [0-9]+ seats left
 only [0-9]+ left! get it before it`s gone!
 only a few left!
 hurry, only [0-9]+ left in stock
-clearance! only [0-9]+ left in stock.
+clearance! only [0-9]+ left in stock\.
 available, only [0-9]+ left
-in stock. only [0-9]+ left!
+in stock\. only [0-9]+ left!
 in stock only [0-9]+ left!
 limited-time deal
 only [0-9]+ unit(s) available!
@@ -186,17 +186,17 @@ sellout risk:
 only: [0-9]+ in stock now
 only [0-9]+ watch left
 only [0-9]+ item(s) left in stock
-only [0-9]+ items left.
+only [0-9]+ items left\.
 [0-9]+ left!
 limited stock only [0-9]+ left
-there are only [0-9]+ item left in stock.
+there are only [0-9]+ item left in stock\.
 (only [0-9]+ left in this size!)
 only [0-9]+ item left in stock
 order soon, only [0-9]+ left!
 hurry low stock
 hurry! only [0-9]+ left in size m!!
 bottles left [0-9]+
-we only have few stocks left for this product. please don't miss the chance.
+we only have few stocks left for this product\. please don't miss the chance\.
 limited stock available
 almost gone - only [0-9]+ remaining!
 we only have [0-9]+ left!
@@ -206,3 +206,212 @@ last chance to activate [0-9]+% off
 hurry up! only [0-9]+ left in stock
 [0-9]+ sold today! hurry, only a few left!
 hurry up ! just [0-9]+ items left in stock
+nog slechts [0-9]+ stuks op voorraad
+lage voorraad – snelle verkoop
+nog slechts [0-9]+ op voorraad
+beperkte voorraad
+alleen [0-9]+over
+[0-9]+ items over
+vandaag weinig op voorraad
+nog slechts [0-9]+ op voorraad\.
+nog maar [0-9]+ items over!
+[0-9]+ geclaimd! haast je, nog maar een paar over!
+nog slechts [0-9]+ stuks op voorraad
+nog maar [0-9]+ over! Profiteer nu!
+we hebben nog [0-9]+ op voorraad
+nog maar [0-9]+ over!
+nog maar [0-9]+ items over
+[0-9]+% aanbiedingen geclaimd\. haast je!
+haast je! nog slechts [0-9]+ op voorraad\.
+bestel nu, nog maar [0-9]+ op voorraad!
+weinig op voorraad: slechts [0-9]+ over.
+[0-9]+ item(s) op voorraad!
+[0-9]+ nog op voorraad
+schiet op, nog maar [0-9]+ over!
+nog maar [0-9]+ op voorraad!
+minder dan [0-9]+ op voorraad
+beschikbaarheid: vandaag weinig op voorraad
+beperkte hoeveelheid
+beperkte voorraad!
+haast je! nog maar een paar op voorraad!
+pre-order [0-9]+ over
+nog maar enkele artikelen op voorraad
+nog maar [0-9]+ eenheden over!
+nog maar [0-9]+ over in deze maat!
+er is nog maar één product over!
+haast je! nog maar [0-9]+ op voorraad!
+nog maar [0-9]+ over voor deze prijs
+nog maar [0-9]+ exemplaren over
+status: nog maar [0-9]+ op voorraad
+[0-9]+ items over! bestel snel\.
+haast je nog slechts [0-9]+ op voorraad!
+nog slechts [0-9]+ op voorraad - bestel snel
+\*slechts [0-9]+ op voorraad\. mis het niet!
+nog maar één artikel op voorraad!
+nog maar [0-9]+ item over
+nog maar [0-9]+ artikelen op voorraad!
+nog maar [0-9]+ op voorraad! wees er snel bij!
+minder dan [0-9]+ over!
+[0-9]+ links
+[0-9]+ over voor deze prijs
+[0-9]+% nog op voorraad!
+weinig op voorraad!! pak de jouwe nu
+[0-9]+ over in deze maat
+[0-9]+ item over
+let op: alle producten worden in beperkte hoeveelheden gemaakt en we vullen zelden bij - betaal nu zodat u niets mist!
+haast je! alleen [0-9]+over
+schiet op, er zijn nog maar [0-9]+ item(s) over!
+haast je! nog slechts [0-9]+ op voorraad
+slechts [0-9]+ over in online voorraad
+maat bijna op voorraad, nog maar [0-9]+ item over
+haast je! nog maar [0-9]+ over voor deze prijs!
+ongeveer [0-9]+ nog op voorraad
+schiet op, nog maar [0-9]+ items over!
+nog maar [0-9]+ over!
+levende resterende voorraad
+haast je! minder dan [0-9]+ links\.
+haast je, nog maar een paar over!
+alleen [0-9]+ links\.
+slechts [0-9]+ op voorraad!
+mis het niet, nog maar [0-9]+ op voorraad
+beperkte hoeveelheid beschikbaar
+haast je! nog maar [0-9]+ items over
+slechts [0-9]+ voorraad beschikbaar
+schiet op, nog maar [0-9]+ op voorraad!
+haast je! hiervan zijn er nog maar een paar over
+haast je! nog maar [0-9]+ stuks over
+schiet op, nog maar [0-9]+ over!
+nog maar [0-9]+ item(s) over
+nog maar [0-9]+ over in deze maat
+(alleen [0-9]+links)
+laad [0-9]+ op voorraad
+slechts [0-9]+ op voorraad
+waarschuwing! nog maar [0-9]+ op voorraad!
+mis dit artikel niet! er is nog maar [0-9]+ op voorraad\.
+nog maar [0-9]+ item(s) over\.
+nog maar [0-9]+ item over!
+slechts [0-9]+ over, op voorraad
+[0-9]+ over, bestel nu!
+[0-9]+ op voorraad
+nog maar [0-9]+ over!
+minder dan [0-9]+ op voorraad!
+schiet op, nog maar [0-9]+ op voorraad\. koop nu!
+beschikbaarheid: lage voorraad
+beschikbaarheid: nog maar [0-9]+ over
+nog maar [0-9]+ over, bestel snel
+waarschuwing: laatste items op voorraad!
+minder dan [0-9]+ over!
+haast je! nog maar [0-9]+ over!
+niet snoozen, nog maar [0-9]+ over
+Beperkte hoeveelheid resterende
+laatste beschikbaar
+nog maar [0-9]+ producten over
+op voorraad, nog maar [0-9]+ producten over
+beperkte hoeveelheid!
+haast je! [0-9]+ nog op voorraad!
+(alleen nog [0-9]+ over!)
+voorraad laag : [0-9]+ items over\.
+op voorraad, nog maar [0-9]+ over!
+op voorraad | [0-9]+links
+nog slechts [0-9]+ eenheden op voorraad online\.
+haast je! bijna uitverkocht\.\.\.
+beperkt leverbaar voor deze prijs!
+nog maar [0-9]+ stuks over
+haast je! nog maar [0-9]+ paar over!
+haast je! beperkte hoeveelheid beschikbaar\.
+minder dan [0-9]+ items over
+lage voorraad
+haast je! slechts beperkte items over
+laatste kans! alleen [0-9]+over
+laatste[0-9]+links
+[0-9]+ stuk(s) over voor deze aanbieding
+nog maar een paar over
+op voorraad ([0-9]+) over
+weinig op voorraad, nog maar [0-9]+ over
+[0-9]+ nog op voorraad\. haast je!
+[0-9]+ eenheden over
+slechts [0-9]+ resterend
+([0-9]+links)
+schiet op, nog maar [0-9]+ over
+beschikbaarheid: weinig voorraad [0-9]+ resterend
+lage voorraad! alleen [0-9]+ links\.
+waarschuwing voor lage voorraad: slechts [0-9]+ over in inventaris
+lage voorraad: nog maar [0-9]+ over\.
+nog maar een paar op voorraad
+slechts [0-9]+ items op voorraad\.
+nog slechts [0-9]+ op voorraad\. koop snel!
+nog maar [0-9]+\.[0-9]+m op voorraad!
+nog maar een paar over!
+gelimiteerde beschikbaarheid
+we hebben nog maar [0-9]+\.[0-9]+ op voorraad
+nog maar [0-9]+ op voorraad! bestel snel!
+snel! nog slechts [0-9]+ op voorraad
+gaat snel: beperkte hoeveelheden beschikbaar!
+op voorraad - beperkte hoeveelheid
+nog maar [0-9]+ deals over
+momenteel minder dan [0-9]+ beschikbaar
+nog maar [0-9]+ stuks over\.
+bijna uitverkocht! alleen [0-9]+ links\.
+nog maar [0-9]+ over, bestel snel!
+haast je! [0-9]+ items over!
+lage voorraad (slechts [0-9]+ over!)
+slechts [0-9]+ stuks op voorraad!
+haast je, nog beperkte hoeveelheden over!
+schiet op, nog maar [0-9]+ over\.
+nog slechts [0-9]+ op voorraad\. Maak het je eigen\.
+momenteel [0-9]+ op voorraad\.
+nog maar een paar over van dit product!
+nog slechts [0-9]+ op voorraad\. bijna weg!
+nog maar één op voorraad - bestel snel!
+deze maat heeft nog maar [0-9]+ op voorraad
+haast, weinig op voorraad!
+schiet op, nog maar [0-9]+ item over!
+nog maar [0-9]+\.[0-9]+ yards op voorraad!
+beschikbaarheid: nog maar [0-9]+ over!
+weinig op voorraad
+nog maar [0-9]+ stuks over!
+nog maar [0-9]+ over, schiet op!
+aantal: \*slechts [0-9]+ over
+alleen [0-9]+beschikbaar
+[0-9]+ stoelen over
+alleen nog [0-9]+over! haal het voordat het weg is!
+nog maar een paar over!
+schiet op, nog maar [0-9]+ op voorraad
+opruiming!
+nog slechts [0-9]+ op voorraad\.
+beschikbaar, nog maar [0-9]+ over
+op voorraad\. nog maar [0-9]+ over!
+op voorraad slechts [0-9]+ over!
+tijdelijke deal
+slechts [0-9]+ stuks beschikbaar!
+schiet op, nog maar [0-9]+ over
+lage voorraad nog maar [0-9]+ over
+haast je! slechts [0-9]+ op voorraad!
+beschikbaarheid: [0-9]+ items over
+haast je! minder dan [0-9]+ over!
+bijna weg! nog slechts [0-9]+ op voorraad
+op voorraad slechts [0-9]+ over
+uitverkoop risico:
+alleen: [0-9]+ nu op voorraad
+alleen nog [0-9]+ horloge over
+nog slechts [0-9]+ item(s) op voorraad
+nog maar [0-9]+ items over\.
+[0-9]+ over!
+beperkte voorraad slechts [0-9]+ over
+er zijn nog maar [0-9]+ artikelen op voorraad\.
+(nog maar [0-9]+ over in deze maat!)
+slechts [0-9]+ item op voorraad
+bestel snel, nog maar [0-9]+ over!
+haast kleine voorraad
+haast je! nog maar [0-9]+ over in maat m!!
+flessen over [0-9]+
+we hebben nog maar weinig voorraden van dit product\. mis alsjeblieft de kans niet\.
+beperkte voorraad beschikbaar
+bijna weg - nog maar [0-9]+ over!
+we hebben nog maar [0-9]+ over!
+beschikbaarheid: op voorraad haast je! nog maar [0-9]+ over!
+haast je !! nog slechts [0-9]+ op voorraad
+laatste kans om [0-9]+% korting te activeren
+haast je! nog slechts [0-9]+ op voorraad
+[0-9]+ vandaag verkocht! haast je, nog maar een paar over!
+haast je ! slechts [0-9]+ artikelen op voorraad

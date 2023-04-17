@@ -127,7 +127,7 @@ async function getSiteData(context, url, {
             return;
         }
 
-        const simpleTarget = {url: target.url(), type: target.type(), cdpClient};
+        const simpleTarget = {url: target.url(), type: target.type(), cdpClient, page};
         targets.push(simpleTarget);
 
         try {
@@ -178,7 +178,7 @@ async function getSiteData(context, url, {
     for (let collector of collectors) {
         try {
             // eslint-disable-next-line no-await-in-loop
-            await collector.addTarget({url: url.toString(), type: 'page', cdpClient});
+            await collector.addTarget({url: url.toString(), type: 'page', cdpClient, page: page});
         } catch (e) {
             log(chalk.yellow(`${collector.id()} failed to attach to page`), chalk.gray(e.message), chalk.gray(e.stack));
         }

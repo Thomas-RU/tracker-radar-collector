@@ -11,9 +11,9 @@ class DarkPatternCollector extends BaseCollector {
     }
 
     init() {
-        /** @type {DarkPatterns} */ this.darkPatterns;
-        /** @type {puppeteer.Page} */ this.page;
-        /** @type {string} */ this.url;
+        /** @type {DarkPatterns} */ this.darkPatterns = undefined;
+        /** @type {puppeteer.Page} */ this.page = undefined;
+        /** @type {string} */ this.url = undefined;
     }
 
     /**
@@ -26,13 +26,17 @@ class DarkPatternCollector extends BaseCollector {
     }
 
     async getData() {
+        return this.darkPatterns;
+    }
+
+    async postLoad() {
         const delay = (/** @type {number} */ ms) => new Promise(res => setTimeout(res, ms));
-        let inputPatterns = fs.readFileSync('../tracker-radar-collector-main/InputData/InputPatterns.txt', {encoding: 'utf8', flag:'r'});
-        this.darkPatterns = await processFile(this.page, this.url, inputPatterns);
-        delay(10000);
-        await this.page.evaluate(() => window.scrollTo(0,document.body.scrollHeight));
-        let k = await processFile(this.page, this.url, inputPatterns);
-        this.darkPatterns.pattern = this.darkPatterns.pattern.concat(k.pattern);
+        let inputPatterns = fs.readFileSync('./InputData/uniqPatterns.txt', {encoding: 'utf8', flag:'r'});
+        const darkpatterns1 = await processFile(this.page, this.url, inputPatterns);
+        this.page.evaluate(() => window.scrollTo(0,document.body.scrollHeight));
+        await delay(10000);
+        const darkpatterns2 = await processFile(this.page, this.url, inputPatterns);
+        this.darkPatterns = {url: darkpatterns1.url, pageText:darkpatterns1.pageText.concat(darkpatterns2.pageText), pattern: darkpatterns1.pattern.concat(darkpatterns2.pattern)};
         return this.darkPatterns;
     }
 
@@ -61,12 +65,6 @@ async function processFile (page, url, inputPatterns) {
 async function processData(content, pageText, url) {
     //checks if darkpatterns are present in body of page
     /** @type {DarkPatterns} */ let result = {url: url, pageText: [pageText], pattern: []};
-    if(this.darkPatterns === undefined){
-        this.darkPatterns = result;
-    } else {
-        // @ts-ignore
-        result.pageText = result.pageText.concat(this.darkPatterns.pageText);
-    }
     const darkpatterns = content.split("\r\n");
     for(const pattern of darkpatterns){
         //easy search easy mistakes
